@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addons>
+<addon id="repository.doemela" name="Doemela Repository" version="2.0.2" provider-name="Doemela">
+    <requires>
+        <import addon="xbmc.python" version="3.0.0"/>
+    </requires>
+    <extension point="xbmc.addon.repository" name="Doemela Repository">
+        <dir>
+            <info compressed="false">https://raw.githubusercontent.com/BrodjagaRatnik/doemela-kodi-repo/main/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/BrodjagaRatnik/doemela-kodi-repo/main/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/BrodjagaRatnik/doemela-kodi-repo/main/zips/</datadir>
+        </dir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en_GB">BrodjagaRatnik Clock Overlay Repo</summary>
+        <description lang="en_GB">[B]Doemela Repository[/B][CR][CR]• Official repository for BrodjagaRatnik add-ons.[CR]• Install this ZIP to receive automatic updates.</description>
+        <source>https://github.com/BrodjagaRatnik/doemela-kodi-repo/tree/main/zips/repository.doemela</source>        
+        <platform>all</platform>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+    </extension>
+</addon>
+<addon id="script.clock.overlay" name="Clock Overlay" version="1.7.1" provider-name="Doemela">
+    <requires>
+        <import addon="xbmc.python" version="3.0.0"/>
+    </requires>
+    <extension point="xbmc.python.script" library="main.py">
+        <provides>executable</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en_GB">Clock Overlay</summary>
+        <description lang="en_GB">[B]Clock Overlay[/B][CR]
+		A lightweight Python-based clock that displays a temporary overlay during media playback.[CR][CR]
+		[COLOR yellow]Features:[/COLOR][CR]
+		• [B]Shortcut:[/B] Press [I]0[/I] during playback.[CR]
+		• [B]Customizable:[/B] Change duration and opacity in settings.[CR]
+		• [B]Preview:[/B] Test your look directly in the menu.[CR]
+		• [B]Install:[/B] https://github.com/BrodjagaRatnik/doemela-kodi-repo/tree/main/zips/repository.doemela</description>
+        <platform>all</platform>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+    </extension>
+</addon>
+</addons>
