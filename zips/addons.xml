@@ -22,7 +22,7 @@
         </assets>
     </extension>
 </addon>
-<addon id="script.clock.overlay" name="Clock Overlay" version="1.7.1" provider-name="Doemela">
+<addon id="script.clock.overlay" name="Clock Overlay" version="1.7.2" provider-name="Doemela">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>
     </requires>
@@ -30,14 +30,12 @@
         <provides>executable</provides>
     </extension>
     <extension point="xbmc.addon.metadata">
-        <summary lang="en_GB">Clock Overlay</summary>
-        <description lang="en_GB">[B]Clock Overlay[/B][CR]
-		A lightweight Python-based clock that displays a temporary overlay during media playback.[CR][CR]
-		[COLOR yellow]Features:[/COLOR][CR]
-		• [B]Shortcut:[/B] Press [I]0[/I] during playback.[CR]
-		• [B]Customizable:[/B] Change duration and opacity in settings.[CR]
-		• [B]Preview:[/B] Test your look directly in the menu.[CR]
-		• [B]Install:[/B] https://github.com/BrodjagaRatnik/doemela-kodi-repo/tree/main/zips/repository.doemela</description>
+        <summary lang="en_GB">[COLOR blue]Clock Overlay[/COLOR]</summary>
+        <description lang="en_GB">A lightweight Python-based clock that displays a temporary overlay during media playback.[CR]
+[B][COLOR yellow]Features:[/COLOR][/B]
+• [B]Shortcut:[/B] Press [I]0[/I] during playback.
+• [B]Customizable:[/B] Change duration and opacity in settings.
+• [B]Install:[/B] https://github.com/BrodjagaRatnik/doemela-kodi-repo/tree/main/zips/repository.doemela</description>
         <platform>all</platform>
         <assets>
             <icon>icon.png</icon>
