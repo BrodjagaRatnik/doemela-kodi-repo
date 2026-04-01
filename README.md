@@ -6,7 +6,6 @@ Official repository for **BrodjagaRatnik** Kodi add-ons, specifically optimized 
 A lightweight Python-based clock that displays a temporary overlay during media playback.
 - **Shortcut**: Press `0` during playback.
 - **Customizable**: Change duration and opacity in settings.
-- **Preview**: Test your look directly in the menu.
 
 ---
 
