@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-<addon id="repository.doemela" name="Doemela Repository" version="2.0.2" provider-name="Doemela">
+<addon id="repository.doemela" name="Doemela Repository" version="2.0.3" provider-name="Doemela">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>
     </requires>
@@ -22,7 +22,7 @@
         </assets>
     </extension>
 </addon>
-<addon id="script.clock.overlay" name="Clock Overlay" version="1.7.2" provider-name="Doemela">
+<addon id="script.clock.overlay" name="Clock Overlay" version="1.7.3" provider-name="Doemela">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>
     </requires>
@@ -38,8 +38,8 @@
 • [B]Install:[/B] https://github.com/BrodjagaRatnik/doemela-kodi-repo/tree/main/zips/repository.doemela</description>
         <platform>all</platform>
         <assets>
-            <icon>icon.png</icon>
-            <fanart>fanart.jpg</fanart>
+            <icon>resources/media/icon.png</icon>
+            <fanart>resources/media/fanart.jpg</fanart>
         </assets>
     </extension>
 </addon>
