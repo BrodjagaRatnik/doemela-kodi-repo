@@ -22,7 +22,7 @@
         </assets>
     </extension>
 </addon>
-<addon id="script.clock.overlay" name="Clock Overlay" version="1.7.3" provider-name="Doemela">
+<addon id="script.clock.overlay" name="Clock Overlay" version="1.7.4" provider-name="Doemela">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>
     </requires>
