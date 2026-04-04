@@ -22,7 +22,7 @@
         </assets>
     </extension>
 </addon>
-<addon id="script.clock.overlay" name="Clock Overlay" version="1.7.4" provider-name="Doemela">
+<addon id="script.clock.overlay" name="Clock Overlay" version="1.7.5" provider-name="Doemela">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>
     </requires>
@@ -34,8 +34,7 @@
         <description lang="en_GB">A lightweight Python-based clock that displays a temporary overlay during media playback.[CR]
 [B][COLOR yellow]Features:[/COLOR][/B]
 • [B]Shortcut:[/B] Press [I]0[/I] during playback.
-• [B]Customizable:[/B] Change duration and opacity in settings.
-• [B]Install:[/B] https://github.com/BrodjagaRatnik/doemela-kodi-repo/tree/main/zips/repository.doemela</description>
+• [B]Customizable:[/B] Change duration and opacity in settings.</description>
         <platform>all</platform>
         <assets>
             <icon>resources/media/icon.png</icon>
