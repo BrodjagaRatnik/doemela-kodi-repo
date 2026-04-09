@@ -2,10 +2,9 @@
 
 Official repository for **BrodjagaRatnik** Kodi add-ons, specifically optimized for **Kodi 21 (Omega)** and **Raspberry Pi 5**.
 
-## 🚀 Featured Add-on: Clock Overlay
-A lightweight Python-based clock that displays a temporary overlay during media playback.
-- **Shortcut**: Press `0` during playback.
-- **Customizable**: Change duration and opacity in settings.
+## 🚀 Featured Add-ons:
+* Clock Overlay: A lightweight Python-based clock that displays a temporary overlay during media playback.
+* WireGuard Manager for NordVPN: A lightweight, high-performance Kodi service addon for LibreELEC 12+ (Kodi 21 Omega). This tool manages WireGuard connections natively via connmanctl, providing a faster and more stable experience than traditional OpenVPN-based addons.
 
 ---
 
