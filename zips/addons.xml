@@ -44,7 +44,7 @@
         </assets>
     </extension>
 </addon>
-<addon id="service.wireguard.manager" name="WireGuard Manager NordVPN" version="1.0.0" provider-name="Doemela">
+<addon id="service.wireguard.manager" name="WireGuard Manager NordVPN" version="1.0.1" provider-name="Doemela">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>
     </requires>
@@ -55,7 +55,13 @@
     <extension point="xbmc.addon.metadata">
         <summary lang="en_GB">Hardened NordVPN WireGuard Manager for Raspberry Pi 5</summary>
         <description lang="en_GB">High-performance VPN manager for LibreELEC. Uses NordLynx for maximum speed with an automated Systemd watchdog to prevent connection drops.[CR][CR][B]Note:[/B] This addon is designed specifically for the LibreELEC filesystem and will not work on standard Android or Windows Kodi installations.[CR][CR][B]Features:[/B][CR]• WireGuard Native (NordLynx)[CR]• Smart Watchdog &amp; Auto-Regen[CR]• Hard Reset Routing Tables[CR][CR][B]Disclaimer:[/B] Not an official NordVPN product. Use at your own risk. This addon is provided "as is" without warranty. The developer is not liable for data loss or security breaches. Full disclaimer available in addon settings.</description>
-        <news>v1.0.0
+        <news>v1.0.1
+- Added: Smart Add-on Mapping (Auto-connect VPN based on which TV add-on is open)
+- Added: Visual Setup Wizard to easily assign WireGuard profiles to slots
+- Added: Dynamic background monitoring for Kodi 21.3 (Omega)
+- Improved: Log-less trigger detection for better performance on Pi 5
+- Fixed: Resolved service-start delays in LibreELEC 12.2.1
+v1.0.0
 - Fixed: RunScript reinstall command argument parsing
 - Improved: Main logic execution order for better setup handling
 - Added: Enhanced logging for LibreELEC
