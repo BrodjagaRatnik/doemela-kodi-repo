@@ -16,6 +16,8 @@ For detailed instructions for Add-on Clock Overlay, please visit our **[Project 
 *   **[⚙️ Settings Explained](https://github.com/BrodjagaRatnik/doemela-kodi-repo/wiki/Settings-Explained)** - Tuning the display.
 *   **[🆘 Troubleshooting](https://github.com/BrodjagaRatnik/doemela-kodi-repo/wiki/Troubleshooting)** - Fixes for common issues.
 
+*   For detailed instructions for WireGuard Manager for NordVPN Add-on, please visit our **[Project Wiki](https://github.com/BrodjagaRatnik/service.wireguard.manager/wiki)**:
+
 ---
 
 ## 📦 Quick Download
