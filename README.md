@@ -1,9 +1,9 @@
-# 🕒 Doemela Kodi Repository
+# Doemela Kodi Repository
 
 Official repository for **Doemela** Kodi add-ons, specifically optimized for **Kodi 21 (Omega)** and **Raspberry Pi 5**.
 
 ## 🚀 Featured Add-ons:
-* Clock Overlay: A lightweight Python-based clock that displays a temporary overlay during media playback.
+* 🕒 Clock Overlay: A lightweight Python-based clock that displays a temporary overlay during media playback.
 * WireGuard Manager for NordVPN: A lightweight, high-performance Kodi service addon for LibreELEC 12+ (Kodi 21 Omega). This tool manages WireGuard connections natively via connmanctl, providing a faster and more stable experience than traditional OpenVPN-based addons.
 
 ---
