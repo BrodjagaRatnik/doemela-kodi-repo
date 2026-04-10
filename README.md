@@ -1,6 +1,6 @@
 # 🕒 Doemela Kodi Repository
 
-Official repository for **BrodjagaRatnik** Kodi add-ons, specifically optimized for **Kodi 21 (Omega)** and **Raspberry Pi 5**.
+Official repository for **Doemela** Kodi add-ons, specifically optimized for **Kodi 21 (Omega)** and **Raspberry Pi 5**.
 
 ## 🚀 Featured Add-ons:
 * Clock Overlay: A lightweight Python-based clock that displays a temporary overlay during media playback.
@@ -9,7 +9,7 @@ Official repository for **BrodjagaRatnik** Kodi add-ons, specifically optimized 
 ---
 
 ## 📖 Quick Links
-For detailed instructions, please visit our **[Project Wiki](https://github.com/BrodjagaRatnik/doemela-kodi-repo/wiki)**:
+For detailed instructions for Add-on Clock Overlay, please visit our **[Project Wiki](https://github.com/BrodjagaRatnik/doemela-kodi-repo/wiki)**:
 
 *   **[📥 Installation Guide](https://github.com/BrodjagaRatnik/doemela-kodi-repo/wiki/Installation-Guide)** - How to enable unknown sources and install the repo.
 *   **[⌨️ Usage & Shortcuts](https://github.com/BrodjagaRatnik/doemela-kodi-repo/wiki/Usage-%26-Shortcuts)** - Activating the '0' key.
