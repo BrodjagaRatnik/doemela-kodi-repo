@@ -4,7 +4,7 @@ Official repository for **Doemela** Kodi add-ons, specifically optimized for **K
 
 ## 🚀 Featured Add-ons:
 * 🕒 Clock Overlay: A lightweight Python-based clock that displays a temporary overlay during media playback.
-* WireGuard Manager for NordVPN: A lightweight, high-performance Kodi service addon for LibreELEC 12+ (Kodi 21 Omega). This tool manages WireGuard connections natively via connmanctl, providing a faster and more stable experience than traditional OpenVPN-based addons.
+* WireGuard Manager for NordVPN: A lightweight, high-performance Kodi service addon for LibreELEC 12+ (Kodi 21 Omega). This tool manages WireGuard connections natively via connmanctl, providing a faster and more stable experience than traditional OpenVPN-based addons. For detailed instructions for Add-on WireGuard Manager, please visit our **[Wiki]([https://github.com/BrodjagaRatnik/doemela-kodi-repo/wiki](https://github.com/BrodjagaRatnik/service.wireguard.manager/wiki))**
 
 ---
 
