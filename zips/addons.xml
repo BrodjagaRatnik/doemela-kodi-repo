@@ -14,7 +14,9 @@
     <extension point="xbmc.addon.metadata">
         <summary lang="en_GB">[B][COLOR yellow]Doemela Repository[/COLOR][/B]</summary>
         <description lang="en_GB">Download and install add-ons from the official repository for add-ons of Doemela.[CR] Install this repository to receive automatic updates for:[CR][CR] • Clock Overlay, A lightweight Python-based clock that displays a temporary overlay during media playback.[CR] • WireGuard Manager NordVPN, High-performance VPN manager for LibreELEC. Uses NordLynx for maximum speed with an automated Systemd watchdog to prevent connection drops.[CR][CR]All add-ons on this repository have under gone basic testing, if you find a broken or not working add-on please report it so we can take any action needed.</description>
-        <news>v2.0.4
+        <news>v2.0.5
+- Cleaned up files...
+v2.0.4
 - Cleaned up files.</news>
         <source>https://github.com/BrodjagaRatnik/doemela-kodi-repo/tree/main/zips/repository.doemela</source>        
         <platform>all</platform>
@@ -50,7 +52,7 @@
         </assets>
     </extension>
 </addon>
-<addon id="service.wireguard.manager" name="WireGuard Manager NordVPN" version="1.0.3" provider-name="Doemela">
+<addon id="service.wireguard.manager" name="WireGuard Manager NordVPN" version="1.0.4" provider-name="Doemela">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>
     </requires>
@@ -61,7 +63,9 @@
     <extension point="xbmc.addon.metadata">
         <summary lang="en_GB">Hardened NordVPN WireGuard Manager for Raspberry Pi 5</summary>
         <description lang="en_GB">High-performance VPN manager for LibreELEC. Uses NordLynx for maximum speed with an automated Systemd watchdog to prevent connection drops.[CR][CR][B]Note:[/B] This addon is designed specifically for the LibreELEC filesystem and will not work on standard Android or Windows Kodi installations.[CR][CR][B]Features:[/B][CR]• WireGuard Native (NordLynx)[CR]• Smart Watchdog &amp; Auto-Regen[CR]• Hard Reset Routing Tables[CR][CR][B]Disclaimer:[/B] Not an official NordVPN product. Use at your own risk. This addon is provided "as is" without warranty. The developer is not liable for data loss or security breaches. Full disclaimer available in addon settings.</description>
-        <news>v1.0.3
+        <news>v1.0.4
+- Cleaned up logging
+v1.0.3
 - Cleaned up files and new icons
 v1.0.2
 - Security: Added automatic IPv6 Leak Protection. The manager now identifies and disables IPv6 on Ethernet and Wi-Fi.
