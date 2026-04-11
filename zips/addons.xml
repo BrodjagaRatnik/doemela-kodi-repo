@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-<addon id="repository.doemela" name="Doemela Repository" version="2.0.4" provider-name="Doemela">
+<addon id="repository.doemela" name="Doemela Repository" version="2.0.5" provider-name="Doemela">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>
     </requires>
@@ -12,7 +12,7 @@
         </dir>
     </extension>
     <extension point="xbmc.addon.metadata">
-        <summary lang="en_GB">[B]Doemela Repository[/B]</summary>
+        <summary lang="en_GB">[B][COLOR yellow]Doemela Repository[/COLOR][/B]</summary>
         <description lang="en_GB">Download and install add-ons from the official repository for add-ons of Doemela.[CR] Install this repository to receive automatic updates for:[CR][CR] • Clock Overlay, A lightweight Python-based clock that displays a temporary overlay during media playback.[CR] • WireGuard Manager NordVPN, High-performance VPN manager for LibreELEC. Uses NordLynx for maximum speed with an automated Systemd watchdog to prevent connection drops.[CR][CR]All add-ons on this repository have under gone basic testing, if you find a broken or not working add-on please report it so we can take any action needed.</description>
         <news>v2.0.4
 - Cleaned up files.</news>
