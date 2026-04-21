@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="script.clock.overlay" name="Clock Overlay" version="1.7.7" provider-name="Doemela">
+<addon id="script.clock.overlay" name="Clock Overlay" version="1.7.8" provider-name="Doemela">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>
     </requires>
@@ -12,14 +12,17 @@
 [B][COLOR yellow]Features:[/COLOR][/B]
 • [B]Shortcut:[/B] Press [I]0[/I] during playback.
 • [B]Customizable:[/B] Change duration and opacity in settings.</description>
-        <news>v1.7.7
+        <news>v1.7.8
+- resize of screenshot00000
+
+v1.7.7
 - Cleaned up files and new icons</news>
         <platform>all</platform>
         <license>MIT</license>
         <assets>
             <icon>resources/media/icon.png</icon>
             <fanart>resources/media/fanart.jpg</fanart>
-            <screenshot>resources/media/screenshot00000.png</screenshot>
+            <screenshot>resources/media/screenshot00000.jpg</screenshot>
             <screenshot>resources/media/screenshot00001.png</screenshot>
             <screenshot>resources/media/screenshot00002.png</screenshot>
         </assets>
