@@ -1,5 +1,8 @@
+![Size](https://img.shields.io/github/repo-size/BrodjagaRatnik/doemela-kodi-repo)
+![Last Commit](https://img.shields.io/github/last-commit/BrodjagaRatnik/doemela-kodi-repo)
+![License](https://img.shields.io/github/license/BrodjagaRatnik/doemela-kodi-repo)
+---
 # Doemela Kodi Repository
-
 Official repository for **Doemela** Kodi add-ons, specifically optimized for **Kodi 21 (Omega)** and **Raspberry Pi 5**.
 
 ## 🚀 Featured Add-ons:
