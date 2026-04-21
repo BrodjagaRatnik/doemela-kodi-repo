@@ -1,6 +1,11 @@
 ﻿CHANGELOG
 =========
 
+2026-04-22
+ - repository.doemela (v2.0.8)
+ - script.clock.overlay (v1.7.7)
+ - service.wireguard.manager (v1.2.0)
+
 2026-04-21
  - repository.doemela (v2.0.8)
  - script.clock.overlay (v1.7.7)
