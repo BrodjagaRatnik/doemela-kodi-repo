@@ -1,6 +1,11 @@
 Kodi Repository Master Changelog
-Generated: 2026-04-27
+Generated: 2026-04-28
 =================================
+
+2026-04-28
+- script.clock.overlay (v1.7.8)
+- repository.doemela (v2.0.9)
+- service.wireguard.manager (v1.2.8)
 
 2026-04-27
 - script.clock.overlay (v1.7.8)
