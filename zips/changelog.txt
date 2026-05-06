@@ -1,6 +1,72 @@
 Kodi Repository Master Changelog
-Generated: 2026-04-29
+Generated: 2026-05-06
 =================================
+
+2026-05-06
+- script.clock.overlay (v1.7.8)
+- repository.doemela (v2.1.0)
+- service.wireguard.manager (v1.3.1)
+- service.wireguard.manager-dev (v1.0.0.101)
+
+2026-05-06
+- script.clock.overlay (v1.7.8)
+- repository.doemela (v2.1.0)
+- service.wireguard.manager (v1.3.1)
+- service.wireguard.manager-dev (v1.0.0.101)
+
+2026-05-06
+- script.clock.overlay (v1.7.8)
+- repository.doemela (v2.1.1)
+- service.wireguard.manager (v1.3.1)
+- service.wireguard.manager-dev (v1.0.0.100)
+
+2026-05-06
+- script.clock.overlay (v1.7.8)
+- repository.doemela (v2.1.1)
+- service.wireguard.manager (v1.3.1)
+- service.wireguard.manager-dev (v1.0.0.100)
+
+2026-05-06
+- script.clock.overlay (v1.7.8)
+- repository.doemela (v2.1.0)
+- service.wireguard.manager (v1.3.1)
+- service.wireguard.manager-dev (v1.0.0.101)
+
+2026-05-06
+- script.clock.overlay (v1.7.8)
+- repository.doemela (v2.1.0)
+- service.wireguard.manager (v1.3.1)
+- service.wireguard.manager-dev (v1.0.0.101)
+
+2026-05-06
+- script.clock.overlay (v1.7.8)
+- repository.doemela (v2.1.0)
+- service.wireguard.manager (v1.3.1)
+- service.wireguard.manager-dev (v1.0.0.101)
+
+2026-05-06
+- script.clock.overlay (v1.7.8)
+- repository.doemela (v2.1.0)
+- service.wireguard.manager (v1.3.1)
+- service.wireguard.manager-dev (v1.0.0.101)
+
+2026-05-06
+- script.clock.overlay (v1.7.8)
+- repository.doemela (v2.0.9)
+- service.wireguard.manager (v1.3.1)
+- service.wireguard.manager-dev (v1.0.0.101)
+
+2026-05-06
+- script.clock.overlay (v1.7.8)
+- repository.doemela (v2.0.9)
+- service.wireguard.manager (v1.3.1)
+- service.wireguard.manager-dev (v1.0.0.101)
+
+2026-05-06
+- script.clock.overlay (v1.7.8)
+- repository.doemela (v2.0.9)
+- service.wireguard.manager (v1.3.1)
+- service.wireguard.manager-dev (v1.0.0.101)
 
 2026-04-29
 - script.clock.overlay (v1.7.8)
