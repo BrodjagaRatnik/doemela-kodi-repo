@@ -15,7 +15,7 @@
 		<summary lang="en_GB">[B][COLOR yellow]Doemela Repository[/COLOR]</summary>
 		<description lang="en_GB">Download and install add-ons from the official repository for add-ons of Doemela.[CR] Install this repository to receive automatic updates for:[CR][CR] • Clock Overlay, A lightweight Python-based clock that displays a temporary overlay during media playback.[CR] • WireGuard Manager NordVPN, High-performance VPN manager for LibreELEC. Uses NordLynx for maximum speed with an automated Systemd watchdog to prevent connection drops.[CR][CR]All add-ons on this repository have under gone basic testing, if you find a broken or not working add-on please report it so we can take any action needed.</description>
 		<news>v2.3.1
-- Added: service.wireguard.manager-dev version 1.0.0.101 BETA/DEV VERSION for testers.</news>
+- Removed: service.wireguard.manager-dev version 1.0.0.101 BETA/DEV VERSION for testers.</news>
 		<source>https://github.com/BrodjagaRatnik/doemela-kodi-repo/tree/main/zips/repository.doemela</source>
 		<platform>all</platform>
 		<license>MIT</license>
@@ -83,45 +83,6 @@ v1.2.9 (2026-04-29)
 - Updated .addonignore to prevent core assets from being stripped during installation.
 - Enhanced vpn_core.py with absolute path translation using modern xbmcvfs standards.
 - Improved server regeneration reliability for Kodi 21.3 Omega.</news>
-        <language>en_gb</language>
-        <platform>linux</platform>
-        <license>MIT</license>
-        <website>https://github.com/BrodjagaRatnik/service.wireguard.manager</website>
-        <source>https://github.com/BrodjagaRatnik/service.wireguard.manager</source>
-        <assets>
-            <icon>resources/media/icon.png</icon>
-            <fanart>resources/media/fanart.jpg</fanart>
-            <screenshot>resources/media/screenshot00000.png</screenshot>
-            <screenshot>resources/media/screenshot00001.jpg</screenshot>
-            <screenshot>resources/media/screenshot00002.jpg</screenshot>
-        </assets>
-    </extension>
-</addon>
-
-<addon id="service.wireguard.manager-dev" name="WireGuard VPN Manager" version="1.0.0.101" provider-name="Doemela">
-    <requires>
-        <import addon="xbmc.python" version="3.0.1"/>
-    </requires>
-    <extension point="xbmc.python.script" library="main.py">
-        <provides>executable</provides>
-    </extension>
-    <extension point="xbmc.service" library="service_startup.py"/>
-    <extension point="xbmc.addon.metadata">
-    <summary lang="en">Multi-Provider WireGuard Manager (NordVPN, PIA, Custom)</summary>
-    <description lang="en">[B][COLOR yellow]BETA/DEV VERSION[/COLOR][/B][CR]High-performance, hardened VPN manager for LibreELEC. Now supports multiple providers including NordVPN (NordLynx), Private Internet Access (PIA), and Custom manual configurations. Features an automated Systemd watchdog to prevent connection drops and secure DNS hardening.[CR][CR][B]Note:[/B] Designed specifically for LibreELEC. [CR][CR][B]Features:[/B][CR]• Multi-Provider Support (Nord, PIA, Custom)[CR]• Pure Python WireGuard Handshake logic[CR]• Smart Watchdog &amp; Auto-Reconnect[CR]• Hardened DNS &amp; IPv6 Leak Protection[CR][CR][B]Disclaimer:[/B] Not an official product of any VPN provider. Use at your own risk.</description>
-        <news>v1.0.0.101
-- Major Feature: Multi-Provider Architecture (NordVPN, PIA, Custom).
-- New Module: Private Internet Access (PIA) with dynamic WireGuard handshake.
-- New Module: Custom Provider support for manual .config file imports.
-- Fine tuned Raspberry Pi 5 with high-speed network timings.
-- Added hardware detection for separate Pi 4 and Pi 5 configurations.
-- Fixed VPN reconnect loops by optimizing WATCHDOG_SETTLE_DELAY.
-- Implemented "Silent Reconnect" for background VPN switching during streams.
-- Added blackout "Grace Period" to prevent false network alerts.
-- Smart Country Selector: Replaced manual ID entry with a live API-driven multi-select dialog.
-- Core: Standardized temporary state files to /tmp for improved reliability.
-- Fix: Enhanced Auto-Mapper to correctly distinguish between manual and automated sessions.
-- Fix: Space-safe Service ID (SID) detection for complex VPN server names.</news>
         <language>en_gb</language>
         <platform>linux</platform>
         <license>MIT</license>
