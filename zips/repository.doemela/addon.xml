@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.doemela" name="Doemela Repository" version="2.3.1" provider-name="Doemela">
+<addon id="repository.doemela" name="Doemela Repository" version="2.3.2" provider-name="Doemela">
 	<requires>
 		<import addon="xbmc.python" version="3.0.0"/>
 	</requires>
@@ -13,11 +13,16 @@
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en_GB">[B][COLOR yellow]Doemela Repository[/COLOR]</summary>
 		<description lang="en_GB">Download and install add-ons from the official repository for add-ons of Doemela.[CR] Install this repository to receive automatic updates for:[CR][CR] • Clock Overlay, A lightweight Python-based clock that displays a temporary overlay during media playback.[CR] • WireGuard Manager NordVPN, High-performance VPN manager for LibreELEC. Uses NordLynx for maximum speed with an automated Systemd watchdog to prevent connection drops.[CR][CR]All add-ons on this repository have under gone basic testing, if you find a broken or not working add-on please report it so we can take any action needed.</description>
-		<news>v2.3.1
+		<news>v2.3.2
+
+- Major Feature change of WireGuard VPN Manager version 1.4.0:
+- Multi-Provider Architecture (NordVPN, PIA, Custom), new modules Private Internet Access (PIA), Custom Provider support for manual .config file imports.
+
+v2.3.1
 - Removed: service.wireguard.manager-dev version 1.0.0.101 BETA/DEV VERSION for testers.</news>
 		<source>https://github.com/BrodjagaRatnik/doemela-kodi-repo/tree/main/zips/repository.doemela</source>
 		<platform>all</platform>
-		<license>MIT</license>
+		<license>GPL-2.0-or-later</license>
 		<assets>
 			<icon>icon.png</icon>
 		</assets>
