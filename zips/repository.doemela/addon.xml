@@ -18,7 +18,7 @@
 - Multi-Provider Architecture (NordVPN, PIA, Custom), new modules Private Internet Access (PIA), Custom Provider support for manual .config file imports.</news>
 		<source>https://github.com/BrodjagaRatnik/doemela-kodi-repo/tree/main/zips/repository.doemela</source>
 		<platform>all</platform>
-		<license>GPL-2.0-or-later</license>
+		<license>GPL-3.0-or-later</license>
 		<assets>
 			<icon>icon.png</icon>
 		</assets>

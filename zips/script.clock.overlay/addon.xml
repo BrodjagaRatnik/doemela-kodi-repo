@@ -18,7 +18,7 @@
 v1.7.7
 - Cleaned up files and new icons</news>
         <platform>all</platform>
-        <license>GPL-2.0-or-later</license>
+        <license>GPL-3.0-or-later</license>
         <assets>
             <icon>resources/media/icon.png</icon>
             <fanart>resources/media/fanart.jpg</fanart>
