@@ -10,6 +10,7 @@ Official repository for **Doemela** Kodi add-ons, specifically optimized for **K
 * <img src="zips/script.clock.overlay/resources/media/screenshot00000.jpg" alt="screenshot00000.jpg" width="800">
 * <img src="zips/service.wireguard.manager/resources/media/icon.png" alt="Alt text" width="25"> WireGuard VPN Manager: A lightweight, high-performance Kodi service addon for LibreELEC 12+ (Kodi 21 Omega). This tool manages WireGuard connections natively via connmanctl, providing a faster and more stable experience than traditional OpenVPN-based addons. For detailed instructions for Add-on WireGuard VPN Manager, please visit our **[Wiki](https://github.com/BrodjagaRatnik/service.wireguard.manager/wiki)**
 * <img src="zips/service.wireguard.manager/resources/media/screenshot00002.jpg" alt="screenshot00002.jpg" width="800">
+* <img src="zips/service.wireguard.manager/resources/media/icon.png" alt="Alt text" width="25"> WireGuard VPN Manager for Linux: A lightweight, high-performance Kodi service addon for standalone Linux distributions (Debian, Mint, Ubuntu, and LMDE), this tool manages WireGuard connections natively via NetworkManager (nmcli). For detailed instructions for Add-on WireGuard VPN Manager for Linux, please visit our **[Wiki](https://github.com/BrodjagaRatnik/service.wireguard.manager.linux/wiki)**
 ---
 
 ## 📖 Quick Links
