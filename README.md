@@ -22,3 +22,5 @@ For detailed instructions for Add-on Clock Overlay, please visit our **[Project 
 ## 📦 Quick Download
 If you already know what you're doing, grab the installer here:
 [**Download Doemela Repo ZIP**](https://github.com/BrodjagaRatnik/doemela-kodi-repo/tree/main/zips/repository.doemela).
+
+*Created by Doemela*
